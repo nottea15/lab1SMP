@@ -3,7 +3,7 @@
 import pyfiglet #Завдання 2: Бібліотека ASCII-арту
 from colorama import Fore, Style
 
-print(Fore.LIGHTMAGENTA_EX + "Welcome to ASCII ART program. Enjoy!" + Style.RESET_ALL)
+print(Fore.LIGHTMAGENTA_EX + "Welcome to ASCII ART program" + Style.RESET_ALL)
 def get_user_input():
 
 # Task 1: User input
